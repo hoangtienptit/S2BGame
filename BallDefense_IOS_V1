@@ -6,7 +6,7 @@
   },
   "version": {
      "name": "1.0.0",
-    "title":" Do you want to update the latest version?",
+    "title":" Update new version",
     "content": "- Fix bugs"
   }
 }
