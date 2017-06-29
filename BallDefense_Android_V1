@@ -5,8 +5,8 @@
 	    "banerfull": "ca-app-pub-2054309585318608/8065858375"
   },
   "version": {
-     "name": "1.0.7",
+     "name": "1.0.9",
     "title":" Update new version",
-    "content": "- Fix bugs"
+    "content": "- Update new feature"
   }
 }
