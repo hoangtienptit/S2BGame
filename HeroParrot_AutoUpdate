@@ -8,5 +8,9 @@
      "name": "1.0.0",
     "title": "Update new version",
     "content": "-Update new feature"
+  },
+  "news":{
+    "message": "Beta Testing"
+  
   }
 }
