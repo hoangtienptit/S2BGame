@@ -1,9 +1,4 @@
 {
-  "fake": "0",
-  "idadmod": {
-    "baner": "",
-	    "banerfull": ""
-  },
   "version": {
      "name": "1.0.2",
     "title": "Update new version",
