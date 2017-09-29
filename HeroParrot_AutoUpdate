@@ -4,18 +4,17 @@
     "title": "Update new version",
     "content": "-Update new feature"
   },
+  
   "news":{
     "message": "-Beta Testing\n-No bug"
-  }
+  },
   
   "admobid":{
     "bannerId_IOS" : "ca-app-pub-3940256099942544/6300978111",
     "interstitialId_IOS" :"ca-app-pub-3940256099942544/1033173712",
-    "interstitialAdCount_IOS" : "3";
-    
-    
+    "interstitialAdCount_IOS" : "3",
      "bannerId_ANDROID" : "ca-app-pub-3940256099942544/6300978111",
-    "interstitialId_ANDROID" :"ca-app-pub-3940256099942544/1033173712"
-    "interstitialAdCount_ANDROID" : "3";
+    "interstitialId_ANDROID" :"ca-app-pub-3940256099942544/1033173712",
+    "interstitialAdCount_ANDROID" : "3",
   }
 }
