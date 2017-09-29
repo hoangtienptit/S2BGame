@@ -2,7 +2,7 @@
   "version": {
      "name": "1.0.1",
     "title": "New version available",
-    "content": "-Bug fixed\n-Improve performance",
+    "content": "-Bug fixed\n-Improve performance\n-New birds",
     "internetCheckingServer" : "google.com"
   },
   
