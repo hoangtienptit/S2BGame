@@ -6,6 +6,12 @@
   },
   "news":{
     "message": "-Beta Testing\n-No bug"
+  }
   
+  "admobid":{
+    "bannerId_IOS" : "test",
+    "interstitialId_IOS" :"test"
+     "bannerId_ANDROID" : "test",
+    "interstitialId_ANDROID" :"test"
   }
 }
