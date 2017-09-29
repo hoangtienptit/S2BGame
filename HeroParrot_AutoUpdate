@@ -3,7 +3,7 @@
      "name": "1.0.1",
     "title": "New version available",
     "content": "-Bug fixed\n-Improve performance",
-    "internetCheckingServer" : "http://www.saadkhawaja.com/gettime.php"
+    "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
   },
   
   "news":{
