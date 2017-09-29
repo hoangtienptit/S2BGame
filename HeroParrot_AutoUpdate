@@ -7,7 +7,7 @@
   },
   
    "version_ANDROID": {
-     "name": "1.0.1",
+     "name": "1.0.2",
     "title": "New version available",
     "content": "-Bug fixed\n-Improve performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
