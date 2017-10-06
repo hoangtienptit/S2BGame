@@ -1,15 +1,15 @@
 {
   "version_IOS": {
-     "name": "1.0.3",
+     "name": "1.0.4",
     "title": "New version available",
-    "content": "-New effect feature\n-New mini game to play\n-Bug fixed\n-Improve performance",
+    "content": "-New cool effects for your parrot\n-Get more <sprite=4> by playing the latest mini game\n-Bug fixed\n-Improve performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
   },
   
    "version_ANDROID": {
-     "name": "1.0.2",
+     "name": "1.0.4",
     "title": "New version available",
-    "content": "-Bug fixed\n-Improve performance",
+    "content": "-New cool effects for your parrot\n-Get more <sprite=4> by playing the latest mini game\n-Bug fixed\n-Improve performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
   },
   
