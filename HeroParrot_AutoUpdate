@@ -1,6 +1,6 @@
 {
   "version_IOS": {
-     "name": "1.0.4",
+     "name": "1.0.6",
     "title": "New version available",
     "content": "-New cool effects for your parrot\n-Get more <sprite=4> by playing the latest mini game\n-Bug fixed\n-Improve performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
