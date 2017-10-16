@@ -1,0 +1,56 @@
+{
+  "house_ads": {
+    "package_name": "com.ss.ss",
+	  "position": {
+        "1" : {
+            "img_url" : "gg.com.vn",
+            "percent" : "20",
+        },
+        "2" : {
+            "img_url" : "gg.com.vn",
+            "percent" : "20",
+        },
+        "3" : {
+            "img_url" : "gg.com.vn",
+            "percent" : "100",
+        }
+    }
+  },
+  "revenue_ads": {
+      "banner" : {      
+          "admob" : {
+              "percent" : "50",
+              "id": "ca-app-pub-2054309585318608/6589125177"
+          },
+          "fan" : {
+              "percent" : "50",
+              "id": "ca-app-pub-2054309585318608/6589125177"
+          }
+      },
+      "full_banner" : {      
+          "admob" : {
+              "percent" : "50",
+              "id": "ca-app-pub-2054309585318608/6589125177"
+          },
+          "fan" : {
+              "percent" : "50",
+              "id": "ca-app-pub-2054309585318608/6589125177"
+          }
+      },
+      "reward" : {      
+          "admob" : {
+              "percent" : "50",
+              "id": "ca-app-pub-2054309585318608/6589125177"
+          },
+          "fan" : {
+              "percent" : "50",
+              "id": "ca-app-pub-2054309585318608/6589125177"
+          }
+      }
+  },
+  "version": {
+      "name": "1.0.9",
+      "title":" Update new version",
+      "content": "- Update new feature"
+  }
+}
