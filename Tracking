@@ -18,6 +18,15 @@
         "full_banner_percent" : "20",       
         "icon_imgurl" : "gg.com.vn",
         "icon_percent" : "100"        
+    },
+    "game3" : {
+        "package_name": "com.game3.game",                
+        "banner_imgurl" : "gg.com.vn"            
+        "banner_percent" : "20",        
+        "full_banner_imgurl" : "gg.com.vn",
+        "full_banner_percent" : "20",       
+        "icon_imgurl" : "gg.com.vn",
+        "icon_percent" : "100"        
     }
   },
   "revenue_ads": {
