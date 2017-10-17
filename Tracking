@@ -2,7 +2,7 @@
   "state_ads" : "house_ads",	
   "house_ads": {
     "game1" : {
-        "package_name": "com.ss.ss",                
+        "package_name": "com.game1.game",                
         "banner" : {
             "img_url" : "gg.com.vn",
             "percent" : "20",
@@ -17,7 +17,7 @@
         }    
     },
     "game2" : {
-        "package_name": "com.ss.ss",                
+        "package_name": "com.game1.game",                
         "banner" : {
             "img_url" : "gg.com.vn",
             "percent" : "20",
