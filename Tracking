@@ -33,11 +33,11 @@
   "revenue_ads": {
       "banner" : {       	  	
           "admob" : {
-              "percent" : "70",
+              "percent" : "80",
               "id": "admob_banner"
           },
           "fan" : {
-              "percent" : "30",
+              "percent" : "20",
               "id": "fan_banner"
           }
       },
