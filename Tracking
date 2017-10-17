@@ -20,32 +20,32 @@
   "revenue_ads": {
       "banner" : {       	  	
           "admob" : {
-              "percent" : "50",
-              "id": "ca-app-pub-2054309585318608/6589125177"
+              "percent" : "70",
+              "id": "admob_banner"
           },
           "fan" : {
-              "percent" : "50",
-              "id": "ca-app-pub-2054309585318608/6589125177"
+              "percent" : "30",
+              "id": "fan_banner"
           }
       },
       "full_banner" : {      	  	
           "admob" : {
-              "percent" : "50",
-              "id": "ca-app-pub-2054309585318608/6589125177"
+              "percent" : "70",
+              "id": "admob_full"
           },
           "fan" : {
-              "percent" : "50",
-              "id": "ca-app-pub-2054309585318608/6589125177"
+              "percent" : "30",
+              "id": "fan_full"
           }
       },
       "reward" : {      
           "admob" : {
-              "percent" : "50",
-              "id": "ca-app-pub-2054309585318608/6589125177"
+              "percent" : "70",
+              "id": "admob_reward"
           },
           "fan" : {
-              "percent" : "50",
-              "id": "ca-app-pub-2054309585318608/6589125177"
+              "percent" : "30",
+              "id": "fan_reward"
           }
       }
   },
