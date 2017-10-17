@@ -2,8 +2,7 @@
   "state_ads" : "house_ads",	
   "house_ads": {
     "package_name": "com.ss.ss",
-    "position": 
-    [
+    "position": {
         "1" : {
             "img_url" : "gg.com.vn",
             "percent" : "20",
@@ -16,7 +15,7 @@
             "img_url" : "gg.com.vn",
             "percent" : "100",
         }
-    ]
+    }
   },
   "revenue_ads": {
       "banner" : {       	  	
