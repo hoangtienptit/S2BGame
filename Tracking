@@ -1,7 +1,8 @@
 {
+  "state_ads" : "1",	
   "house_ads": {
     "package_name": "com.ss.ss",
-	  "position": {
+    "position": {
         "1" : {
             "img_url" : "gg.com.vn",
             "percent" : "20",
@@ -17,7 +18,7 @@
     }
   },
   "revenue_ads": {
-      "banner" : {      
+      "banner" : {       	  	
           "admob" : {
               "percent" : "50",
               "id": "ca-app-pub-2054309585318608/6589125177"
@@ -27,7 +28,7 @@
               "id": "ca-app-pub-2054309585318608/6589125177"
           }
       },
-      "full_banner" : {      
+      "full_banner" : {      	  	
           "admob" : {
               "percent" : "50",
               "id": "ca-app-pub-2054309585318608/6589125177"
