@@ -13,10 +13,10 @@
     },
     "game2" : {
         "package_name": "com.game2.game",                
-        "banner_imgurl" : "gg.com.vn"            
-        "banner_percent" : "20",        
-        "full_banner_imgurl" : "gg.com.vn",
-        "full_banner_percent" : "20",       
+        "banner_imgurl" : "http://imageshack.com/a/img924/2302/KFKQ4P.png"            
+        "banner_percent" : "100",        
+        "full_banner_imgurl" : "http://imageshack.com/a/img924/2302/KFKQ4P.png",
+        "full_banner_percent" : "100",       
         "icon_imgurl" : "gg.com.vn",
         "icon_percent" : "100"        
     },
