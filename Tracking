@@ -1,6 +1,6 @@
 {
   "versionjson" : "1",
-  "state_ads" : "house_ads",	
+  "state_ads" : "custom_ads",	
   "house_ads": {
     "game1" : {
         "package_name": "com.game1.game",                
