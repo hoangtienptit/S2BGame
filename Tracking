@@ -5,9 +5,9 @@
     "game1" : {
         "package_name": "com.LegendGame.Hero.Parrot",                
         "banner_imgurl" : "gg.com.vn"            
-        "banner_percent" : "50",        
+        "banner_percent" : "100",        
         "full_banner_imgurl" : "gg.com.vn",
-        "full_banner_percent" : "50",       
+        "full_banner_percent" : "100",       
         "icon_imgurl" : "gg.com.vn",
         "icon_percent" : "100"        
     }    
