@@ -15,21 +15,21 @@
   "revenue_ads": {
       "banner" : {       	  	
           "admob" : {
-              "percent" : "80",
-              "id": "admob_banner"
+              "percent" : "100",
+              "id": "ca-app-pub-2054309585318608/6589125177"
           },
           "fan" : {
-              "percent" : "20",
+              "percent" : "0",
               "id": "fan_banner"
           }
       },
       "full_banner" : {      	  	
           "admob" : {
-              "percent" : "70",
-              "id": "admob_full"
+              "percent" : "100",
+              "id": "ca-app-pub-2054309585318608/8065858375"
           },
           "fan" : {
-              "percent" : "30",
+              "percent" : "0",
               "id": "fan_full"
           }
       },
