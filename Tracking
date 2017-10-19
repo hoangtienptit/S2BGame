@@ -3,41 +3,14 @@
   "state_ads" : "custom_ads",	
   "house_ads": {
     "game1" : {
-        "package_name": "com.game1.game",                
-        "banner_imgurl" : "gg.com.vn"            
-        "banner_percent" : "20",        
-        "full_banner_imgurl" : "gg.com.vn",
-        "full_banner_percent" : "20",       
-        "icon_imgurl" : "gg.com.vn",
-        "icon_percent" : "100"        
-    },
-    "game2" : {
-        "package_name": "com.game2.game",                
-        "banner_imgurl" : "http://imageshack.com/a/img924/5950/ejrB1g.png"            
-        "banner_percent" : "100",        
-        "full_banner_imgurl" : "http://imageshack.com/a/img924/2302/KFKQ4P.png",
-        "full_banner_percent" : "100",       
-        "icon_imgurl" : "gg.com.vn",
-        "icon_percent" : "100"        
-    },
-    "game3" : {
-        "package_name": "com.game3.game",                
-        "banner_imgurl" : "gg.com.vn"            
-        "banner_percent" : "20",        
-        "full_banner_imgurl" : "gg.com.vn",
-        "full_banner_percent" : "20",       
-        "icon_imgurl" : "gg.com.vn",
-        "icon_percent" : "100"        
-    },
-    "game4" : {
         "package_name": "com.LegendGame.Hero.Parrot",                
-        "banner_imgurl" : "http://imageshack.com/a/img924/5950/ejrB1g.png"            
-        "banner_percent" : "100",        
-        "full_banner_imgurl" : "http://imageshack.com/a/img924/2302/KFKQ4P.png",
-        "full_banner_percent" : "100",       
+        "banner_imgurl" : "gg.com.vn"            
+        "banner_percent" : "50",        
+        "full_banner_imgurl" : "gg.com.vn",
+        "full_banner_percent" : "50",       
         "icon_imgurl" : "gg.com.vn",
         "icon_percent" : "100"        
-    }
+    }    
   },
   "revenue_ads": {
       "banner" : {       	  	
