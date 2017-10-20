@@ -1,20 +1,20 @@
 {
   "version_IOS": {
-     "name": "1.0.6",
+     "name": "1.0.7",
     "title": "New version available",
-    "content": "-New cool effects for your parrot\n-Get more <sprite=4> by playing the latest mini game\n-Bug fixed\n-Improve performance",
+    "content": "- Level <size=60><color=#FFFAB0FF>Optimize</color></size> For New Players\n- <size=60><color=#FFFAB0FF>Free</size></color> cool effects available\n- Improve gameplay experiment\n- Improve Performance\n- Bugs Fixed\n- Add more bugs to fix later",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
   },
   
    "version_ANDROID": {
-     "name": "1.0.5",
+     "name": "1.0.6",
     "title": "New version available",
-    "content": "-New cool effects for your parrot\n-Get more <sprite=4> by playing the latest mini game\n-Bug fixed\n-Improve performance",
+    "content": ""- Level <size=60><color=#FFFAB0FF>Optimize</color></size> For New Players\n- <size=60><color=#FFFAB0FF>Free</size></color> cool effects available\n- Improve gameplay experiment\n- Improve Performance\n- Bugs Fixed\n- Add more bugs to fix later",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
   },
   
   "news":{
-    "message": "-New version available for download with some new cool features\n-Remember to claim your reward daily\n-Happy escaping<sprite=4><sprite=4>"
+    "message": "-<color=#FFFAB0FF>New</color> version available for download with some new cool features\n-Remember to <color=#FFFAB0FF>claim</color> your reward daily\n-Happy escaping<sprite=4><sprite=4>"
   },
   
   "admobid":{
