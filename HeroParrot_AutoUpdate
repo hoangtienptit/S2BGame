@@ -9,7 +9,7 @@
    "version_ANDROID": {
      "name": "1.0.6",
     "title": "New version available",
-    "content": ""- Level <size=60><color=#FFFAB0FF>Optimize</color></size> For New Players\n- <size=60><color=#FFFAB0FF>Free</size></color> cool effects available\n- Improve gameplay experiment\n- Improve Performance\n- Bugs Fixed\n- Add more bugs to fix later",
+    "content": "- Level <size=60><color=#FFFAB0FF>Optimize</color></size> For New Players\n- <size=60><color=#FFFAB0FF>Free</size></color> cool effects available\n- Improve gameplay experiment\n- Improve Performance\n- Bugs Fixed\n- Add more bugs to fix later",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
   },
   
