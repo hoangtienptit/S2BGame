@@ -1,0 +1,52 @@
+{
+  "versionjson" : "1",
+  "state_ads" : "custom_ads",	
+  "house_ads": {
+    "game1" : {
+        "package_name": "com.LegendGame.Hero.Parrot",                
+        "banner_imgurl" : "https://lh3.googleusercontent.com/GEK9IwcvWPQIxgwK6sQslo6wFo43AaY0MzYBq-3nGEKJjPWmrnolV9QnTkxkdKxavt5po2suywawEaXkRYkODv9R51G4q-fzrXl1ZOfdpJpamzH5ZtKpTj1juo7ik2FvzV9pSaF9O8DM2KFcNuCpLOAE4iW4x9Rm10Huykoejtaunbnq2aSmX3ALKJHTtxAB4hEeTRn0TYPFEanM0LyvWSkelr4UKBMVPtlMAVi3xRI_mL8gJktA5jGuFcXETlg73D_GhUM5tlF8Omb6XLpn768Ru8TWe2CbPwOb0vgIaBGU7Uui0VrIORagc-_O5gcUj9vHzbWJx6RN3L_xR8ky1JU7ltn_b01Vk4cdtzebat1oanbhKPMk45dCLtlWHitkj5MMGBmBV89yIkz_n_V2rkXojVkbAQh1NDM0TUOTqnANvhnZ89yfotVleHAedEzfxNWanuF55XQRNGq7ffjOwco4ehgWaUPpg4GjAFsTHSqb6_DeLjqINJ-iLlxhJ_oMR3YIL1M474wFTw92tb4-qRIimk0VKir7KNFon1hiB2Mqgo_hJ-mFyEtZprpgeXOkvE2v8zbKp-_yLK1fu1lVBCE8V3-QxF4JGzHAfEI7=w320-h50-no"            
+        "banner_percent" : "50",        
+        "full_banner_imgurl" : "https://lh3.googleusercontent.com/Kg1l01HxTUft7Fwgx7fbW43badClhkYTszwK-unY_x7IIcR3bVQgjE1VEdYVK77a7raLwd7Q2M2iquyuuFAmp6zB3Z_WSYVHqJalIdi1TPV6LNT4NWTvegEzYm3ADXk2qEr2HS6HbkM2ZXwMw7_wjhMlzIXBZ-eGTrFDs4q31nwxIbp3sJp6H2p-sbzYsmCsDsFTtzm91WdQfzgT2wQ3fdqSEQvaJzBrdelc_5gcc1RXw9JyFw5sY8mUY7W432MjkFlDNkPCxv4QpZ6pQztVHnVAN-s8XBlGwUx3al5Z_MydlKYHBql4nyWNrqPPLLZTzdiaCDQZpHOGOJvCTdxVYjY0BQzBxb5FkwTxOK4bv_eAcqK-AkgHfnqKEg2DCjSl0xDAoMH3QlksBNuvv3ttYE43MZYzhkeQ0MiaxCy2JhNMnGEif5KvS71a7NGC_tcP6HJAugTjClxiC4sqFXcqqZgE1wJRdSEKXbZr7nyZFp_E5THlgrIYegt6OKag095keqK2JPpvZFwm4GfanZFtUirfHABKXFXfIQEsE3xClmnklJ1cr7HQ5GrVRNgjiCJG32ODw81Z59Bwj2HaIrrS0QIAWJub-DCo2hB8sxze=w320-h480-no",
+        "full_banner_percent" : "50",       
+        "icon_imgurl" : "gg.com.vn",
+        "icon_percent" : "100"        
+    }    
+  },
+  "revenue_ads": {
+      "banner" : {       	  	
+          "admob" : {
+              "percent" : "100",
+              "id": "ca-app-pub-2054309585318608/7044162680"
+          },
+          "fan" : {
+              "percent" : "0",
+              "id": "fan_banner"
+          }
+      },
+      "full_banner" : {      	  	
+          "admob" : {
+              "percent" : "100",
+              "id": "ca-app-pub-2054309585318608/2530202606"
+          },
+          "fan" : {
+              "percent" : "0",
+              "id": "fan_full"
+          }
+      },
+      "reward" : {      
+          "admob" : {
+              "percent" : "70",
+              "id": "admob_reward"
+          },
+          "fan" : {
+              "percent" : "30",
+              "id": "fan_reward"
+          }
+      }
+  },
+  "version": {
+      "name": "1.0.9",
+      "title":" Update new version",
+      "content": "- Update new feature"
+  }
+}
