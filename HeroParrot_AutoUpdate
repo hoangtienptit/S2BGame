@@ -1,8 +1,8 @@
 {
   "version_IOS": {
-     "name": "1.0.7",
-    "title": "New version available",
-    "content": "- Level <size=60><color=#FFFAB0FF>Optimize</color></size> For New Players\n- <size=60><color=#FFFAB0FF>Free</size></color> cool effects available\n- Improve gameplay experiment\n- Improve Performance\n- Bugs Fixed\n- Add more bugs to fix later",
+     "name": "1.0.8",
+    "title": "Big Update Available",
+    "content": "- The game is <size=60><color=#FFFAB0FF>easier</color></size> now\n- Add more puzzles to solve\n-New <size=36><color=#FFFAB0FF>High Performance Mode</color></size> option in settings\n-New dynamic background, the game looks so good now\n- Improve gameplay experiment\n- Improve Performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
   },
   
@@ -14,7 +14,7 @@
   },
   
   "news":{
-    "message": "-<color=#FFFAB0FF>New</color> version available for download with some new cool features\n-Remember to <color=#FFFAB0FF>claim</color> your reward daily\n-Happy escaping<sprite=4><sprite=4>"
+    "message": "-<color=#FFFAB0FF>New</color> Big Update is available for download"
   },
   
   "admobid":{
