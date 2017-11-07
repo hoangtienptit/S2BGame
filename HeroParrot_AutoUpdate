@@ -7,7 +7,7 @@
   },
   
    "version_ANDROID": {
-     "name": "1.0.8",
+     "name": "1.1.0",
     "title": "Big Update Available",
     "content": "- The game is <size=60><color=#FFFAB0FF>easier</color></size> now\n- Add more puzzles to solve\n-New <size=36><color=#FFFAB0FF>High Performance Mode</color></size> option in settings\n-New dynamic background, the game looks so good now\n- Improve gameplay experiment\n- Improve Performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
