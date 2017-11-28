@@ -7,7 +7,7 @@
   },
   
    "version_ANDROID": {
-     "name": "1.1.2",
+     "name": "1.1.3",
     "title": "Big Update Available",
     "content": "- FIX THE STUCK AT LEVEL 11 \n- Improve Performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
