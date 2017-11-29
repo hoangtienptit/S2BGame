@@ -1,20 +1,20 @@
 {
   "version_IOS": {
-     "name": "1.1.2",
-    "title": "Big Update Available",
-    "content": "- The game is <size=60><color=#FFFAB0FF>easier</color></size> now\n- Add more puzzles to solve\n-New <size=36><color=#FFFAB0FF>High Performance Mode</color></size> option in settings\n-New dynamic background, the game looks so good now\n- Improve gameplay experiment\n- Improve Performance",
+     "name": "1.1.3",
+    "title": "Emergency Update Available",
+    "content": "- <color=#FFFAB0FF>FIX</color> the bug cause you to be stuck in <size=60>LEVEL 11</size> and unable to proceed to the next level\n- Improve Performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
   },
   
    "version_ANDROID": {
      "name": "1.1.3",
-    "title": "Big Update Available",
-    "content": "- <color=#FFFAB0FF>FIX</color> the bug cause you to be stuck in <size=60>LEVEL 11</size> \n- Improve Performance",
+    "title": "Emergency Update Available",
+    "content": "- <color=#FFFAB0FF>FIX</color> the bug cause you to be stuck in <size=60>LEVEL 11</size> and unable to proceed to the next level\n- Improve Performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
   },
   
   "news":{
-    "message": "-<color=#FFFAB0FF>New</color> Big Update is available for download"
+    "message": "-<color=#FFFAB0FF>New</color> Update 1.1.3 is available for download"
   },
   
   "admobid":{
