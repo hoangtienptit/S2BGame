@@ -1,0 +1,28 @@
+{
+  "version_IOS": {
+     "name": "1.0.0",
+    "title": "New Update Available",
+    "content": "- Improve Performance",
+    "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
+  },
+  
+   "version_ANDROID": {
+     "name": "1.0.0",
+    "title": "New Update Available",
+    "content": "- Improve Performance",
+    "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
+  },
+  
+  "news":{
+    "message": ""
+  },
+  
+  "admobid":{
+    "bannerId_IOS" : "ca-app-pub-5306009604623064/8913205170",
+    "interstitialId_IOS" :"ca-app-pub-5306009604623064/6618214323",
+    "interstitialAdCount_IOS" : "15-10-5",
+     "bannerId_ANDROID" : "ca-app-pub-5306009604623064/2922511891",
+    "interstitialId_ANDROID" :"ca-app-pub-5306009604623064/4766733145",
+    "interstitialAdCount_ANDROID" : "10-8-5",
+  }
+}
