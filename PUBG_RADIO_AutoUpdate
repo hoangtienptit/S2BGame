@@ -3,14 +3,14 @@
      "name": "1.0.0",
     "title": "New Update Available",
     "content": "- Improve Performance",
-    "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
+    "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/PUBG_RADIO_AutoUpdate"
   },
   
    "version_ANDROID": {
      "name": "1.0.0",
     "title": "New Update Available",
     "content": "- Improve Performance",
-    "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate"
+    "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/PUBG_RADIO_AutoUpdate"
   },
   
   "news":{
