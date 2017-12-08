@@ -26,13 +26,13 @@
   },
   
    "nativeads":{
-    "package0": "",
+    "package0": "com.LegendGame.Hero.Parrot",
     "adImage0": "https://i.imgur.com/9Vjl4JVm.png",
     "adText0": "",
     "adLinkIOS0": "us/app/hero-parrot/id1289052499?ls=1&mt=8",
     "adLinkANDROID0": "com.LegendGame.Hero.Parrot",
     
-    "package1": "",
+    "package1": "com.LegendGame.Hero.Parrot",
     "adImage1": "https://i.imgur.com/rpyWKeCl.png",
     "adText1": "",
     "adLinkIOS1": "us/app/hero-parrot/id1289052499?ls=1&mt=8",
