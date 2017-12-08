@@ -24,4 +24,11 @@
     "interstitialId_ANDROID" :"ca-app-pub-5306009604623064/9888240806"
 
   }
+  
+   "nativeads":{
+    "adImageURL1": "http://sv1.upsieutoc.com/2017/12/08/feature.md.png",
+    "adText1": "Download it for free now",
+    "adLinkIOS1": "us/app/hero-parrot/id1289052499?ls=1&mt=8",
+    "adLinkANDROID1": "com.LegendGame.Hero.Parrot"
+  },
 }
