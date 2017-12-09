@@ -12,7 +12,11 @@
     "content": "- Improve Performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/PUBG_RADIO_AutoUpdate"
   },
-  
+  "link": {
+    "idIOS": "123456",
+    "idAND": "com.LegendGame.Hero.Parrot"
+    
+  },
   "news":{
     "message": ""
   },
