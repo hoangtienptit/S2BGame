@@ -12,9 +12,14 @@
     "title": "Emergency Update Available",
     "content": "- <color=#FFFAB0FF>FIX</color> the bug cause you to be stuck in <size=60>LEVEL 11</size> and unable to proceed to the next level\n- Improve Performance",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate",
+    
+  },
+  "link_IOS": {
+    "id": "123456"
+  },
+  "link_ANDROID": {
     "id": "com.LegendGame.Hero.Parrot"
   },
-  
   "news":{
     "message": "-<color=#FFFAB0FF>New</color> Update 1.1.3 is available for download"
   },
