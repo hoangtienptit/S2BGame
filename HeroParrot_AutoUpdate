@@ -14,12 +14,10 @@
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/HeroParrot_AutoUpdate",
     
   },
-  "link_I": {
-    "id": "123456"
-  },
-  
-  "link_A": {
-    "id": "com.LegendGame.Hero.Parrot"
+  "link": {
+    "idIOS": "123456"
+    "idAND": "com.LegendGame.Hero.Parrot"
+    
   },
   
   "news":{
