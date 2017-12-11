@@ -41,5 +41,10 @@
     "adText1": "",
     "adLinkIOS1": "us/app/hero-parrot/id1289052499?ls=1&mt=8",
     "adLinkANDROID1": "com.LegendGame.Hero.Parrot"
+  },
+  
+  "pack":{
+    "latest": "101",
+    "link": "https://drive.google.com/uc?authuser=0&id=1PjVIER_sIdk_nDBO8XkfZ8rGUaCH7mOU&export=download"
   }
 }
