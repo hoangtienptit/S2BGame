@@ -2,14 +2,14 @@
   "version_IOS": {
      "name": "1.0.0",
     "title": "New Update Available",
-    "content": "- new <u><b>Download & Play</b></u> \n-Daily SFX Update\n- New SFX\n- New <color=#FF2F2FFF>STOP</color> button\n- Bug fixed",
+    "content": "- New <u><b>Download & Play</b></u> \n-Daily SFX Update\n- New SFX\n- New <color=#FF2F2FFF>STOP</color> button\n- Bug fixed",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/PUBG_RADIO_AutoUpdate"
   },
   
    "version_ANDROID": {
      "name": "1.0.5",
     "title": "New Update Available",
-    "content": "- new <u><b>Download & Play</b></u> \n-Daily SFX Update\n- New SFX\n- New <color=#FF2F2FFF>STOP</color> button\n- Bug fixed",
+    "content": "- New <u><b>Download & Play</b></u> \n-Daily SFX Update\n- New SFX\n- New <color=#FF2F2FFF>STOP</color> button\n- Bugs fixed",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/PUBG_RADIO_AutoUpdate"
   },
   "link": {
