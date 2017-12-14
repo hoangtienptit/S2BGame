@@ -7,9 +7,9 @@
   },
   
    "version_ANDROID": {
-     "name": "1.0.5",
+     "name": "1.0.6",
     "title": "New Update Available",
-    "content": "- New <u><b>Download & Play</b></u> \n-Daily SFX Update\n- New SFX\n- New <color=#FF2F2FFF>STOP</color> button\n- Bugs fixed",
+    "content": "- New Press to stop\n- Bugs fixed\n- Something else I dont remember",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/PUBG_RADIO_AutoUpdate"
   },
   "link": {
