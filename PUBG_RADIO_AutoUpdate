@@ -7,7 +7,7 @@
   },
   
    "version_ANDROID": {
-     "name": "1.0.5",
+     "name": "1.0.6",
     "title": "New Update Available",
     "content": "- New Press to stop\n- Bugs fixed\n- Something else I dont remember",
     "internetCheckingServer" : "https://raw.githubusercontent.com/hoangtienptit/S2BGame/master/PUBG_RADIO_AutoUpdate"
